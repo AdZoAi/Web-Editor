@@ -1,3 +1,3 @@
 # Web Editor
 
-https://adzoai.github.io/Web-Editor/web/
+https://adzoai.github.io/Web-Video-Editor/web/
